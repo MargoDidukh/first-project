@@ -1,3 +1,6 @@
-<?php
+<?php 
 
-print("Hello, <b> NIX Education </b>");
+include("header.php");
+include("footer.php");
+
+
