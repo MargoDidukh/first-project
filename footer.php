@@ -1,6 +1,6 @@
 </div>
 <footer class="footer"> 
-Made by Didukh Margarita
+Made by Didukh Margarita.
 
 </footer>
 
