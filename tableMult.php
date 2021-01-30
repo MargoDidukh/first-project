@@ -12,7 +12,7 @@ foreach ($numberFirst as &$value1) {
     echo ' <td>';
     foreach ($numberFirst as $value2) {
 
-       echo $value1 . ' x ' . $value2 . ' = ' . $value1 * $value2 . '<br>';
+       echo $value1 , ' x ' , $value2 , ' = ' , $value1 * $value2 , '<br>';
 
     }
     echo '</td>';
