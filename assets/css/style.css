@@ -23,7 +23,7 @@ body {
   background: #BA55D3;
   line-height:50px; 
 }
-ul {
+.menu ul {
   width: 100%;
   list-style: none;  
   background:#BA55D3; 
@@ -31,7 +31,7 @@ ul {
   
 
 }
-a {
+ a {
   text-decoration: none; 
   background:#BA55D3; 
   color:#fff; 
@@ -48,7 +48,7 @@ a {
 a:hover {
   background:#dfa7e0;
 }
-li {
+.menu li {
   float:left; 
 }
 
@@ -66,4 +66,21 @@ li {
   padding: 5px 0px 5px 10px;
 }
 
+input[type=submit] {
+  background-color: #BA55D3;
+  color: white;
+  margin-top: 10px;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  float: center;
+}
+.for {
+text-align: center;;
+margin-top:5%;
+}
+.back{
+  margin-top: 5%;
+}
 
